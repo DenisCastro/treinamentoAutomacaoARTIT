@@ -1,0 +1,15 @@
+A partir da execução da classe suites.Executora
+
+Implementar na classe support.Core:
+
+1 - Métodos de log indicando:
+    O inicio da classe
+    O inicio do método
+    As ações executadas
+    O fim do método
+    O fim da classe
+    Caso ainda não tenha sido feito, salvar conteúdo em ../src/test/resources/Resultado.log
+
+2 - No método print, o salvamento do objeto File screenshot em ../src/test/resources/evidencias/Evidencia.png
+
+Aplicar alterações na classe suites.Executora

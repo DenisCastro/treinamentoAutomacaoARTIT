@@ -1,0 +1,16 @@
+1 - Criar um novo pacote com o seu nome
+2 - Criar uma classe com o nome de sua escolha
+3 - Criar uma suíte de testes, utilizando o Junit para validar a igualdade dos dados definidos em <MASSA> sendo um teste para cada igualdade
+4 - Utilizar tags de inicio e fim de classe e teste
+5 - Criar uma suíte de testes, utilizando o TestNG para validar a igualdade dos dados definidos em <MASSA> sendo um teste para cada igualdade
+6 - Um dos testes deve conter um print após a comparação, utilizando SoftAssert, sem impedir a execução
+7 - Exibir o status de execução no final dos testes
+
+extra1 - Exibir um contador de erros no final do TestNG
+extra2 - Exibir qualquer dado que conseguir tratar, vindo do parâmetro ITestResult
+
+MASSA
+|nomeA  |nomeB  |
+|Marcelo|Paulo  |
+|Renato |Barbara|
+|Daniel |Daniel |

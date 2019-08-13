@@ -1,0 +1,19 @@
+1 - Navegar para a página do change homolog (https://homolog.change.artit.com.br/)
+2 - Através das ações do selenium, realizar o login
+
+extra - Cpassoaso mapeado os xpaths da aula anterior, pular os s 1~4
+    1 - Mapear todas as páginas do change homolog para criar um chamado de sistemas internos (http://homolog.change.artit.com.br/)
+    2 - Criar uma clase dentro do pacote 'objetos' para cada página mapeada
+    3 - Mapear todos os elementos para realizar uma abertura de chamado no change homolog de sistemas internos
+    4 - Escrever todos os xpaths mapeados nas classes equivalentes como 'public static String'
+    5 - Modele uma suite de testes com um cenário de teste, apresentando no terminal
+        1 - Quando a suite de testes começa
+        2 - Quando o caso de teste começa concatenando o seu nome
+        3 - As ações mapeadas por você, para abrir o chamado de sistemas internos
+            Exemplo:
+            Navegando para o change homolog
+            Inserindo meu usuário de rede
+            Inserindo minha senha
+            Clicando em entrar
+        4 - Quando o caso de teste termina concatenando o seu status
+        5 - Quando a suite de testes termina

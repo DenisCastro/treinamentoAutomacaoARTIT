@@ -1,0 +1,19 @@
+1 - Criar um projeto novo
+2 - Importar (ou copiar, se quiser) as dependências do projeto (não importar junit)
+3 - Criar a seguinte estrutura de pacotes
+    *objetos
+    *suites
+    *suporte
+4 - No pacote objetos, criar as classes equivalentes à automação e inserir os localizadores xpaths relacionados à elas, exemplo:
+    *Login
+    *Inicial
+    *NovoRegistro
+5 - No pacote suporte, criar a classe 'Selenium' e implementar os métodos do navegador necessários, exemplo:
+    *Selenium
+        -public void click(String xpath){...};
+        -public void enviar(String xpath, String texto){...};
+6 - No pacote suites, criar a classe 'Executora' e implementar uma suite com um caso de testes, apresentando os resultados de execução
+
+extra
+    -implementar a screenshot no final do teste
+    -exibir os resultados de execuçãoç
